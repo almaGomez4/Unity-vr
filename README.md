@@ -34,8 +34,7 @@ Para ejecutar correctamente el proyecto se deben seguir los siguientes pasos:
 6. Ejecutar la escena principal desde Unity.
 7.  Conectar un visor Oculus Quest mediante Meta Quest Link para probar la experiencia en Realidad Virtual.
 
-
-# Proyecto VR – Interacciones Básicas en Unity
+## Imágenes del resultado
 
 <img width="1280" height="1219" alt="image" src="https://github.com/user-attachments/assets/4bc8724f-e097-4393-8467-c0180edee284" />
 <img width="1280" height="1095" alt="image" src="https://github.com/user-attachments/assets/fa77da4f-9163-4973-bfca-a13e581b0345" />
